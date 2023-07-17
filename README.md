@@ -1,4 +1,4 @@
-#Spanish_to_english_translation
+# Spanish_to_english_translation
 ## Description
 This repo contain 2 impelementation of Deep Learning model to perform Machine Translation task.
 ## Encoder-Decoder
